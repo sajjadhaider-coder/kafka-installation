@@ -3,7 +3,7 @@
 # Command uses 
 
 ### See the running docker processes
-``` run docker ps to see docker processes
+``` run docker ps to see docker processes ```
 ### Move into Kafka container
 ```docker exec -it <kafka_conatiner_id> /bin/sh```
 ### Go inside kafka installation folder
